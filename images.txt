@@ -1,1 +1,2 @@
-nvcr.io/nvidia/pytorch:24.06-py3
+#nvcr.io/nvidia/pytorch:24.06-py3
+hagb/docker-atrust:latest
