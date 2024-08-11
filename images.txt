@@ -1,2 +1,1 @@
-#nvcr.io/nvidia/pytorch:24.06-py3
-hagb/docker-atrust:latest
+pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
