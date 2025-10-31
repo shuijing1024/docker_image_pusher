@@ -1,1 +1,1 @@
-xubiaolin/zerotier-planet
+ollama/ollama
