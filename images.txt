@@ -1,1 +1,1 @@
-ollama/ollama
+ghcr.io/wg-easy/wg-easy:15
